@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="day01_eesy_02factory" />
+        <module name="SrdGkHVNg3P83ASw9II8UXsyA5bSgWSyrsATePw21Kc4vPWNztb3XkMvyeROJh9qheLl8xCYE7Apng2AUOzSHG3Pa5tC6HXttOojvWuCOHONUX0v1cMmSJm0yT3mVkdX" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
